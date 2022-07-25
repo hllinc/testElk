@@ -1,0 +1,231 @@
+2022-07-25 18:12:45,190 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:55 - Starting TestElkApplication using Java 1.8.0_301 on LiangdeMacBook-Pro-2.local with PID 30411 (/Users/lianghong/IdeaProjects/testElk/target/classes started by lianghong in /Users/lianghong/IdeaProjects/testElk)
+2022-07-25 18:12:45,192 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] SpringApplication.java:640 - The following 1 profile is active: "log"
+2022-07-25 18:12:45,231 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 18:12:45,232 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 18:12:46,093 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-25 18:12:46,102 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:12:46,103 [restartedMain] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-07-25 18:12:46,103 [restartedMain] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 18:12:46,146 [restartedMain] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-07-25 18:12:46,147 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 915 ms
+2022-07-25 18:12:46,496 [restartedMain] INFO  [o.s.b.d.autoconfigure.OptionalLiveReloadServer] OptionalLiveReloadServer.java:58 - LiveReload server is running on port 35729
+2022-07-25 18:12:46,511 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:12:46,527 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-25 18:12:46,545 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:61 - Started TestElkApplication in 2.019 seconds (JVM running for 2.72)
+2022-07-25 18:13:25,290 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:55 - Starting TestElkApplication using Java 1.8.0_301 on LiangdeMacBook-Pro-2.local with PID 30447 (/Users/lianghong/IdeaProjects/testElk/target/classes started by lianghong in /Users/lianghong/IdeaProjects/testElk)
+2022-07-25 18:13:25,292 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] SpringApplication.java:640 - The following 1 profile is active: "log"
+2022-07-25 18:13:25,427 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 18:13:25,428 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 18:13:26,255 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-25 18:13:26,260 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:13:26,261 [restartedMain] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-07-25 18:13:26,261 [restartedMain] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 18:13:26,305 [restartedMain] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-07-25 18:13:26,305 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 876 ms
+2022-07-25 18:13:26,625 [restartedMain] INFO  [o.s.b.d.autoconfigure.OptionalLiveReloadServer] OptionalLiveReloadServer.java:58 - LiveReload server is running on port 35729
+2022-07-25 18:13:26,643 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:13:26,657 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-25 18:13:26,678 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:61 - Started TestElkApplication in 1.923 seconds (JVM running for 2.4)
+2022-07-25 18:14:29,638 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 18:14:29,640 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-25 18:14:29,644 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:547 - Completed initialization in 4 ms
+2022-07-25 18:14:29,682 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 29
+2022-07-25 18:14:29,683 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 29
+2022-07-25 18:14:33,654 [http-nio-8080-exec-2] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 33
+2022-07-25 18:14:33,657 [http-nio-8080-exec-2] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 33
+2022-07-25 18:18:51,662 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:55 - Starting TestElkApplication using Java 1.8.0_301 on LiangdeMacBook-Pro-2.local with PID 30764 (/Users/lianghong/IdeaProjects/testElk/target/classes started by lianghong in /Users/lianghong/IdeaProjects/testElk)
+2022-07-25 18:18:51,664 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] SpringApplication.java:640 - The following 1 profile is active: "log"
+2022-07-25 18:18:51,751 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 18:18:51,752 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 18:18:52,601 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-25 18:18:52,606 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:18:52,607 [restartedMain] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-07-25 18:18:52,607 [restartedMain] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 18:18:52,644 [restartedMain] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-07-25 18:18:52,645 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 893 ms
+2022-07-25 18:18:52,961 [restartedMain] INFO  [o.s.b.d.autoconfigure.OptionalLiveReloadServer] OptionalLiveReloadServer.java:58 - LiveReload server is running on port 35729
+2022-07-25 18:18:52,979 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:18:52,995 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-25 18:18:53,016 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:61 - Started TestElkApplication in 1.889 seconds (JVM running for 2.638)
+2022-07-25 18:19:50,639 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:55 - Starting TestElkApplication using Java 1.8.0_301 on LiangdeMacBook-Pro-2.local with PID 30822 (/Users/lianghong/IdeaProjects/testElk/target/classes started by lianghong in /Users/lianghong/IdeaProjects/testElk)
+2022-07-25 18:19:50,641 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] SpringApplication.java:640 - The following 1 profile is active: "log"
+2022-07-25 18:19:50,724 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 18:19:50,725 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 18:19:51,547 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-25 18:19:51,553 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:19:51,553 [restartedMain] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-07-25 18:19:51,554 [restartedMain] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 18:19:51,590 [restartedMain] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-07-25 18:19:51,590 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 865 ms
+2022-07-25 18:19:51,911 [restartedMain] INFO  [o.s.b.d.autoconfigure.OptionalLiveReloadServer] OptionalLiveReloadServer.java:58 - LiveReload server is running on port 35729
+2022-07-25 18:19:51,928 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:19:51,941 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-25 18:19:51,954 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:61 - Started TestElkApplication in 1.843 seconds (JVM running for 2.382)
+2022-07-25 18:19:53,683 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 18:19:53,685 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-25 18:19:53,689 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:547 - Completed initialization in 4 ms
+2022-07-25 18:19:53,724 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 53
+2022-07-25 18:19:53,725 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 53
+2022-07-25 18:21:14,195 [http-nio-8080-exec-4] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 14
+2022-07-25 18:21:14,199 [http-nio-8080-exec-4] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 14
+2022-07-25 18:21:31,319 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:55 - Starting TestElkApplication using Java 1.8.0_301 on LiangdeMacBook-Pro-2.local with PID 30913 (/Users/lianghong/IdeaProjects/testElk/target/classes started by lianghong in /Users/lianghong/IdeaProjects/testElk)
+2022-07-25 18:21:31,321 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] SpringApplication.java:640 - The following 1 profile is active: "log"
+2022-07-25 18:21:31,360 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 18:21:31,361 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 18:21:32,176 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-25 18:21:32,187 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:21:32,188 [restartedMain] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-07-25 18:21:32,188 [restartedMain] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 18:21:32,230 [restartedMain] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-07-25 18:21:32,230 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 868 ms
+2022-07-25 18:21:32,549 [restartedMain] INFO  [o.s.b.d.autoconfigure.OptionalLiveReloadServer] OptionalLiveReloadServer.java:58 - LiveReload server is running on port 35729
+2022-07-25 18:21:32,567 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:21:32,580 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-25 18:21:32,603 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:61 - Started TestElkApplication in 1.848 seconds (JVM running for 2.67)
+2022-07-25 18:21:37,644 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 18:21:37,646 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-25 18:21:37,649 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:547 - Completed initialization in 3 ms
+2022-07-25 18:21:37,681 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 37
+2022-07-25 18:21:37,682 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 37
+2022-07-25 18:21:38,427 [http-nio-8080-exec-2] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 38
+2022-07-25 18:21:38,428 [http-nio-8080-exec-2] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 38
+2022-07-25 18:21:38,774 [http-nio-8080-exec-3] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 38
+2022-07-25 18:21:38,775 [http-nio-8080-exec-3] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 38
+2022-07-25 18:21:39,008 [http-nio-8080-exec-4] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 39
+2022-07-25 18:21:39,009 [http-nio-8080-exec-4] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 39
+2022-07-25 18:21:39,192 [http-nio-8080-exec-5] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 39
+2022-07-25 18:21:39,193 [http-nio-8080-exec-5] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 39
+2022-07-25 18:21:39,353 [http-nio-8080-exec-6] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 39
+2022-07-25 18:21:39,355 [http-nio-8080-exec-6] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 39
+2022-07-25 18:21:39,524 [http-nio-8080-exec-7] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 39
+2022-07-25 18:21:39,526 [http-nio-8080-exec-7] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 39
+2022-07-25 18:21:39,637 [http-nio-8080-exec-8] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 39
+2022-07-25 18:21:39,645 [http-nio-8080-exec-8] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 39
+2022-07-25 18:21:39,807 [http-nio-8080-exec-9] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 39
+2022-07-25 18:21:39,808 [http-nio-8080-exec-9] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 39
+2022-07-25 18:21:39,959 [http-nio-8080-exec-10] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 39
+2022-07-25 18:21:39,960 [http-nio-8080-exec-10] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 39
+2022-07-25 18:21:40,116 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 40
+2022-07-25 18:21:40,117 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 40
+2022-07-25 18:21:40,264 [http-nio-8080-exec-2] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 40
+2022-07-25 18:21:40,265 [http-nio-8080-exec-2] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 40
+2022-07-25 18:21:40,451 [http-nio-8080-exec-3] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 40
+2022-07-25 18:21:40,452 [http-nio-8080-exec-3] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 40
+2022-07-25 18:21:40,608 [http-nio-8080-exec-4] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 40
+2022-07-25 18:21:40,609 [http-nio-8080-exec-4] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 40
+2022-07-25 18:21:40,762 [http-nio-8080-exec-5] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 40
+2022-07-25 18:21:40,763 [http-nio-8080-exec-5] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 40
+2022-07-25 18:21:41,903 [http-nio-8080-exec-6] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 41
+2022-07-25 18:21:41,904 [http-nio-8080-exec-6] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 41
+2022-07-25 18:21:42,764 [http-nio-8080-exec-7] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 42
+2022-07-25 18:21:42,770 [http-nio-8080-exec-7] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 42
+2022-07-25 18:23:39,365 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:55 - Starting TestElkApplication using Java 1.8.0_301 on LiangdeMacBook-Pro-2.local with PID 31047 (/Users/lianghong/IdeaProjects/testElk/target/classes started by lianghong in /Users/lianghong/IdeaProjects/testElk)
+2022-07-25 18:23:39,368 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] SpringApplication.java:640 - The following 1 profile is active: "log"
+2022-07-25 18:23:39,414 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 18:23:39,415 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 18:23:40,230 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-25 18:23:40,236 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:23:40,236 [restartedMain] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-07-25 18:23:40,237 [restartedMain] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 18:23:40,279 [restartedMain] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-07-25 18:23:40,279 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 863 ms
+2022-07-25 18:23:40,625 [restartedMain] INFO  [o.s.b.d.autoconfigure.OptionalLiveReloadServer] OptionalLiveReloadServer.java:58 - LiveReload server is running on port 35729
+2022-07-25 18:23:40,644 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 18:23:40,661 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-25 18:23:40,679 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:61 - Started TestElkApplication in 1.884 seconds (JVM running for 2.449)
+2022-07-25 18:24:41,594 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 18:24:41,595 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-25 18:24:41,599 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:547 - Completed initialization in 4 ms
+2022-07-25 18:24:41,629 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 41
+2022-07-25 18:24:41,629 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 41
+2022-07-25 18:24:43,407 [http-nio-8080-exec-3] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 43
+2022-07-25 18:24:43,411 [http-nio-8080-exec-3] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 43
+2022-07-25 18:59:35,486 [http-nio-8080-exec-8] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 35
+2022-07-25 18:59:35,492 [http-nio-8080-exec-8] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 35
+2022-07-25 19:17:29,856 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 29
+2022-07-25 19:17:29,861 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 29
+2022-07-25 19:55:32,456 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:55 - Starting TestElkApplication using Java 1.8.0_301 on LiangdeMacBook-Pro-2.local with PID 35812 (/Users/lianghong/IdeaProjects/testElk/target/classes started by lianghong in /Users/lianghong/IdeaProjects/testElk)
+2022-07-25 19:55:32,458 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] SpringApplication.java:640 - The following 1 profile is active: "log"
+2022-07-25 19:55:32,582 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 19:55:32,583 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 19:55:33,555 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-25 19:55:33,562 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 19:55:33,563 [restartedMain] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-07-25 19:55:33,564 [restartedMain] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 19:55:33,608 [restartedMain] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-07-25 19:55:33,608 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 1024 ms
+2022-07-25 19:55:34,016 [restartedMain] INFO  [o.s.b.d.autoconfigure.OptionalLiveReloadServer] OptionalLiveReloadServer.java:58 - LiveReload server is running on port 35729
+2022-07-25 19:55:34,034 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 19:55:34,051 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-25 19:55:34,066 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:61 - Started TestElkApplication in 2.237 seconds (JVM running for 3.013)
+2022-07-25 19:55:51,445 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 19:55:51,447 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-25 19:55:51,451 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:547 - Completed initialization in 3 ms
+2022-07-25 19:55:51,480 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 51
+2022-07-25 19:55:51,480 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 51
+2022-07-25 19:55:58,982 [http-nio-8080-exec-2] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 58
+2022-07-25 19:55:58,985 [http-nio-8080-exec-2] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 58
+2022-07-25 20:04:06,866 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:55 - Starting TestElkApplication using Java 1.8.0_301 on LiangdeMacBook-Pro-2.local with PID 36287 (/Users/lianghong/IdeaProjects/testElk/target/classes started by lianghong in /Users/lianghong/IdeaProjects/testElk)
+2022-07-25 20:04:06,868 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] SpringApplication.java:640 - The following 1 profile is active: "log"
+2022-07-25 20:04:06,906 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 20:04:06,906 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 20:04:07,750 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-25 20:04:07,756 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 20:04:07,757 [restartedMain] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-07-25 20:04:07,757 [restartedMain] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 20:04:07,798 [restartedMain] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-07-25 20:04:07,798 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 891 ms
+2022-07-25 20:04:08,130 [restartedMain] INFO  [o.s.b.d.autoconfigure.OptionalLiveReloadServer] OptionalLiveReloadServer.java:58 - LiveReload server is running on port 35729
+2022-07-25 20:04:08,146 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 20:04:08,160 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-25 20:04:08,178 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:61 - Started TestElkApplication in 1.938 seconds (JVM running for 2.602)
+2022-07-25 20:04:49,875 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 20:04:49,878 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-25 20:04:49,883 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:547 - Completed initialization in 4 ms
+2022-07-25 20:04:49,911 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 49
+2022-07-25 20:04:49,911 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 49
+2022-07-25 20:04:50,029 [http-nio-8080-exec-2] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 50
+2022-07-25 20:04:50,030 [http-nio-8080-exec-2] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 50
+2022-07-25 20:04:50,220 [http-nio-8080-exec-3] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 50
+2022-07-25 20:04:50,223 [http-nio-8080-exec-3] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 50
+2022-07-25 20:04:50,355 [http-nio-8080-exec-4] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 50
+2022-07-25 20:04:50,359 [http-nio-8080-exec-4] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 50
+2022-07-25 20:05:15,049 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:55 - Starting TestElkApplication using Java 1.8.0_301 on LiangdeMacBook-Pro-2.local with PID 36364 (/Users/lianghong/IdeaProjects/testElk/target/classes started by lianghong in /Users/lianghong/IdeaProjects/testElk)
+2022-07-25 20:05:15,050 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] SpringApplication.java:640 - The following 1 profile is active: "log"
+2022-07-25 20:05:15,131 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-25 20:05:15,131 [restartedMain] INFO  [o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor] DeferredLog.java:255 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-25 20:05:15,985 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:108 - Tomcat initialized with port(s): 8080 (http)
+2022-07-25 20:05:15,991 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 20:05:15,992 [restartedMain] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2022-07-25 20:05:15,992 [restartedMain] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 20:05:16,028 [restartedMain] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2022-07-25 20:05:16,028 [restartedMain] INFO  [o.s.b.w.s.c.ServletWebServerApplicationContext] ServletWebServerApplicationContext.java:292 - Root WebApplicationContext: initialization completed in 896 ms
+2022-07-25 20:05:16,375 [restartedMain] INFO  [o.s.b.d.autoconfigure.OptionalLiveReloadServer] OptionalLiveReloadServer.java:58 - LiveReload server is running on port 35729
+2022-07-25 20:05:16,392 [restartedMain] INFO  [org.apache.coyote.http11.Http11NioProtocol] DirectJDKLog.java:173 - Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 20:05:16,405 [restartedMain] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:220 - Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-25 20:05:16,423 [restartedMain] INFO  [com.hllinc.testelk.TestElkApplication] StartupInfoLogger.java:61 - Started TestElkApplication in 1.864 seconds (JVM running for 2.326)
+2022-07-25 20:06:29,006 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 20:06:29,009 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:525 - Initializing Servlet 'dispatcherServlet'
+2022-07-25 20:06:29,014 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet] FrameworkServlet.java:547 - Completed initialization in 4 ms
+2022-07-25 20:06:29,042 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 29
+2022-07-25 20:06:29,043 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 29
+2022-07-25 20:06:29,753 [http-nio-8080-exec-2] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 29
+2022-07-25 20:06:29,755 [http-nio-8080-exec-2] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 29
+2022-07-25 20:06:29,939 [http-nio-8080-exec-3] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 29
+2022-07-25 20:06:29,940 [http-nio-8080-exec-3] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 29
+2022-07-25 20:06:30,103 [http-nio-8080-exec-4] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 30
+2022-07-25 20:06:30,106 [http-nio-8080-exec-4] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 30
+2022-07-25 20:06:30,241 [http-nio-8080-exec-5] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 30
+2022-07-25 20:06:30,244 [http-nio-8080-exec-5] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 30
+2022-07-25 20:06:53,325 [http-nio-8080-exec-6] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 53
+2022-07-25 20:06:53,329 [http-nio-8080-exec-6] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 53
+2022-07-25 20:06:53,536 [http-nio-8080-exec-7] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 53
+2022-07-25 20:06:53,538 [http-nio-8080-exec-7] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 53
+2022-07-25 20:06:53,697 [http-nio-8080-exec-8] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 53
+2022-07-25 20:06:53,698 [http-nio-8080-exec-8] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 53
+2022-07-25 20:06:53,849 [http-nio-8080-exec-9] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 53
+2022-07-25 20:06:53,850 [http-nio-8080-exec-9] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 53
+2022-07-25 20:06:54,290 [http-nio-8080-exec-10] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 54
+2022-07-25 20:06:54,293 [http-nio-8080-exec-10] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 54
+2022-07-25 20:06:54,467 [http-nio-8080-exec-1] INFO  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:19 - TestLogs info : 54
+2022-07-25 20:06:54,468 [http-nio-8080-exec-1] WARN  [com.hllinc.testelk.controller.TestLogs] TestLogs.java:20 - TestLogs warn : 54

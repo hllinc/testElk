@@ -1,0 +1,15 @@
+spring:
+  application:
+    # 项目名称启动时传入，写入ELK通过app名称进行隔离
+    name: test-elk
+  profiles:
+    # 启动环境，ELK隔离通过profile属性隔离dev以及prod
+    active: log
+server:
+  port: 8080
+logging:
+  # 日志文件地址
+  config: classpath:logback-spring.xml
+  # 配置Logstash地址
+  logstash:
+    address: 127.0.0.1:50000
