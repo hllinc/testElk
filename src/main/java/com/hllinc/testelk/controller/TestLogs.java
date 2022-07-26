@@ -16,9 +16,9 @@ import java.time.LocalDateTime;
 public class TestLogs {
   @GetMapping("/logs")
   public String printLogs() {
-    log.info(this.getClass().getSimpleName()+" info : "+ LocalDateTime.now().getSecond());
-    log.warn(this.getClass().getSimpleName()+" warn : "+LocalDateTime.now().getSecond());
-    log.error(this.getClass().getSimpleName()+" error : "+LocalDateTime.now().getSecond());
+    log.info(this.getClass().getSimpleName() + " info : " + LocalDateTime.now().getSecond());
+    log.warn(this.getClass().getSimpleName() + " warn : " + LocalDateTime.now().getSecond());
+    log.error(this.getClass().getSimpleName() + " error : " + LocalDateTime.now().getSecond());
     return "logs";
   }
 }
